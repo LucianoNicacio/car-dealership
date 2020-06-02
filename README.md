@@ -1,3 +1,3 @@
 # car-dealership-03.11.20
 
-The website is based on HTML and CSS Flexbox and a little touch of javascript.
+Built a responsive webpage for a car dealership, using with HTML, CSS Flexbox. Used jQuery ready() method to make a function available after the document is loaded. Worked with Font Awesome software to make icons. 
